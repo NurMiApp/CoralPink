@@ -1,0 +1,19 @@
+   {
+       "name": "coral-pink-theme",
+       "displayName": "Coral Pink",
+       "description": "A light Coral Pink theme for VSCode",
+       "version": "0.0.1",
+       "engines": {
+           "vscode": "^1.38.0"
+       },
+       "categories": ["Themes"],
+       "contributes": {
+           "themes": [
+               {
+                   "label": "Coral Pink",
+                   "uiTheme": "vs-dark",
+                   "path": "./themes/coral-pink-color-theme.json"
+               }
+           ]
+       }
+   }
