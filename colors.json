@@ -1,0 +1,10 @@
+{
+       "name": "Coral Pink",
+       "colors": {
+           "editor.background": "#FFC0CB",
+           "editor.foreground": "#FFFFFF",
+           "activityBar.background": "#FF69B4",
+           "sideBar.background": "#FFB6C1"
+       },
+       "tokenColors": []
+   }
